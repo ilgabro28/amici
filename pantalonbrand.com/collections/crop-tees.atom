@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/collections/crop-tees.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2020-10-07T16:37:02+02:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/products/5809918083226</id>
+    <published>2020-10-07T16:37:02+02:00</published>
+    <updated>2020-10-07T16:37:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/white-dispersal-beige-crop-tee"/>
+    <title>White Dispersal Beige Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/white-dispersal-beige-crop-tee-582553.jpg?v=1616110065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Crop Tee<br>
+        <strong>Prezzo: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand White Dispersal Beige Crop Tee</b></h3>
+<p><meta charset="utf-8"><span>La crop-tee</span><span data-mce-fragment="1"> è realizzata </span><meta charset="utf-8"><span data-mce-fragment="1">in morbido cotone di alta qualità ed impreziosita dalla fantasia a dispersione sulle maniche, motivo iconico del brand. </span><meta charset="utf-8"><span data-mce-fragment="1">Il modello, creato in jersey di media pesantezza, </span><meta charset="utf-8"><span data-mce-fragment="1">è completato dal simbolo rappresentativo del</span><span data-mce-fragment="1"> Brand ricamato sul retro.</span></p>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione bianco<br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro </span><br> <span data-mce-fragment="1">▪ Crop-tee a maniche corte</span><br> <span data-mce-fragment="1">▪ Colletto a coste</span><br> <span data-mce-fragment="1">▪ Crop-tee nera</span></p>
+<p><strong>Materiale</strong>: 100% Cotone di alta qualità <meta charset="utf-8">230 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize<br> <meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">La modella Maria indossa la taglia S ed è alta 163cm.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong></strong></a></span><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5809918083226</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5809918083226</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5809918083226</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/5714547835034</id>
+    <published>2020-09-09T13:28:38+02:00</published>
+    <updated>2020-09-09T13:28:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/light-blue-dispersal-white-crop-tee"/>
+    <title>Light Blue Dispersal White Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/light-blue-dispersal-white-crop-tee-857178.jpg?v=1616066813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Crop Tee<br>
+        <strong>Prezzo: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Light Blue Dispersal White Crop Tee</b></h3>
+<p>La crop-tee<span data-mce-fragment="1"> è realizzata </span><meta charset="utf-8"><span data-mce-fragment="1">in morbido cotone di alta qualità ed impreziosita dalla fantasia a dispersione sulle maniche, motivo iconico del brand. </span><meta charset="utf-8"><span data-mce-fragment="1">Il modello, creato in jersey di media pesantezza, </span><meta charset="utf-8"><span data-mce-fragment="1">è completato dal simbolo rappresentativo del</span><span data-mce-fragment="1"> Brand ricamato sul retro.</span></p>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione celeste<br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro </span><br> <span data-mce-fragment="1">▪ Crop-tee a maniche corte</span><br> <span data-mce-fragment="1">▪ Colletto a coste</span><br> <span data-mce-fragment="1">▪ Crop-tee nera</span></p>
+<p><strong>Materiale</strong>: 100% Cotone di alta qualità <meta charset="utf-8">230 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize<br> <meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">La modella Maria indossa la taglia S ed è alta 163cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5714547835034</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5714547835034</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5714547835034</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/5714535088282</id>
+    <published>2020-09-09T13:17:41+02:00</published>
+    <updated>2020-09-09T13:17:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/pink-dispersal-black-crop-tee"/>
+    <title>Pink Dispersal Black Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pink-dispersal-black-crop-tee-193240.jpg?v=1616066812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Crop Tee<br>
+        <strong>Prezzo: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Pink Dispersal Black Crop Tee</b></h3>
+<p><meta charset="utf-8"><span>La crop-tee</span><span data-mce-fragment="1"> è realizzata </span><meta charset="utf-8"><span data-mce-fragment="1">in morbido cotone di alta qualità ed impreziosita dalla fantasia a dispersione sulle maniche, motivo iconico del brand. </span><meta charset="utf-8"><span data-mce-fragment="1">Il modello, creato in jersey di media pesantezza, </span><meta charset="utf-8"><span data-mce-fragment="1">è completato dal simbolo rappresentativo del</span><span data-mce-fragment="1"> Brand ricamato sul retro.</span></p>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione rosa<br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro </span><br> <span data-mce-fragment="1">▪ Crop-tee a maniche corte</span><br> <span data-mce-fragment="1">▪ Colletto a coste</span><br> <span data-mce-fragment="1">▪ Crop-tee nera</span></p>
+<p><strong>Materiale</strong>: 100% Cotone di alta qualità <meta charset="utf-8">230 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize<br> <meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">La modella Maria indossa la taglia S ed è alta 163cm.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong></strong></a></span><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5714535088282</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5714535088282</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5714535088282</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+</feed>

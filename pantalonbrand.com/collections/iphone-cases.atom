@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/collections/iphone-cases.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2020-11-29T12:01:42+01:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/products/5963827151002</id>
+    <published>2020-11-29T12:01:42+01:00</published>
+    <updated>2020-11-29T12:01:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-white-iphone-case"/>
+    <title>Dispersal White Iphone Case</title>
+    <s:type>Cover</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-white-iphone-case-843695.jpg?v=1615776585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Cover<br>
+        <strong>Prezzo: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span style="text-decoration: underline;"><strong> </strong></span><strong>Pantalón Brand</strong><strong> Dispersal <meta charset="utf-8">White Iphone Case</strong>
+</h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand Iphone Case è un mix perfetto tra protezione e stile, è facile da trasportare grazie alle sua linea sottile e un design compatto.</span></p>
+<h4><b><u>DETTAGLI DEL PRODOTTO</u></b></h4>
+<p>La perfetta aderenza della cover garantisce una buona protezione al tuo smartphone da urti o cadute accidentali. Il materiale TPU, inoltre, è versatile, protegge la batteria del tuo telefono da sbalzi termici o eccessivo surriscaldamento e non attira sporco o pelucchi.</p>
+<p><span>▪ Design a dispersione bianco e grigio</span><br> <span>▪ Logo <!--%3Cmeta%20charset%3D%22utf-8%22%3E-->Pantalón stampato in bianco</span><br> <span>▪ Nera<br> ▪ 100% TPU</span><br> ▪ <meta charset="utf-8"><span data-mce-fragment="1">Compatibile con Iphone 12 PRO MAX - 12 PRO - 12 - 12 MINI - 11 PRO MAX - 11 PRO - 11 - XS MAX - X/XS - XR - 7/8 PLUS</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessori</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>coveriphone</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>iphonecases</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 12 PRO MAX</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 12/12 PRO</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 12 MINI</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 11 PRO MAX</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 11 PRO</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 11</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE XS MAX</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE X/XS</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE XR</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963827151002</id>
+      <title>IPHONE 7/8 PLUS</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0190</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/5963379212442</id>
+    <published>2020-11-29T12:01:19+01:00</published>
+    <updated>2020-11-29T12:01:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-red-iphone-case"/>
+    <title>Dispersal Red Iphone Case</title>
+    <s:type>Cover</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-red-iphone-case-173081.jpg?v=1615776585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Cover<br>
+        <strong>Prezzo: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span style="text-decoration: underline;"><strong> </strong></span><strong>Pantalón Brand</strong><strong> Dispersal <meta charset="utf-8">Red Iphone Case</strong>
+</h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand Iphone Case è un mix perfetto tra protezione e stile, è facile da trasportare grazie alle sua linea sottile e un design compatto.</span></p>
+<h4><b><u>DETTAGLI DEL PRODOTTO</u></b></h4>
+<p>La perfetta aderenza della cover garantisce una buona protezione al tuo smartphone da urti o cadute accidentali. Il materiale TPU, inoltre, è versatile, protegge la batteria del tuo telefono da sbalzi termici o eccessivo surriscaldamento e non attira sporco o pelucchi.</p>
+<p><span>▪ Design a dispersione rosso e bianco</span><br> <span>▪ Logo <!--%3Cmeta%20charset%3D%22utf-8%22%3E-->Pantalón stampato in bianco</span><br> <span>▪ Nera<br> ▪ 100% TPU</span><br> ▪ <meta charset="utf-8"><span data-mce-fragment="1">Compatibile con Iphone 12 PRO MAX - 12 PRO - 12 - 12 MINI - 11 PRO MAX - 11 PRO - 11 - XS MAX - X/XS - XR - 7/8 PLUS</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessori</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>coveriphone</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>iphonecases</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 12 PRO MAX</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 12/12 PRO</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 12 MINI</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 11 PRO MAX</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 11 PRO</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 11</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE XS MAX</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE X/XS</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE XR</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/5963379212442</id>
+      <title>IPHONE 7/8 PLUS</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>C20517TP0147</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

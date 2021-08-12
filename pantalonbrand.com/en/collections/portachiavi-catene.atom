@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/en/collections/portachiavi-catene.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2021-02-14T15:21:33+01:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6157962215578</id>
+    <published>2021-02-14T15:21:33+01:00</published>
+    <updated>2021-02-14T15:21:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-white-keychain"/>
+    <title>Dispersal White Keychain</title>
+    <s:type>keychain</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-white-keychain-303902.jpg?v=1613315136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>keychain<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong data-mce-fragment="1">Pantal&oacute;n Brand</strong><strong data-mce-fragment="1">&nbsp;Dispersal White&nbsp;Keychain</strong></h3>
+<p>Practical and versatile, the keychain highlights the modern style thanks to the iconic dispersion pattern and logo Pantal&oacute;n printed on the front and back.</p>
+<p><span style="text-decoration: underline;"><strong>PRODUCT DETAILS</strong></span></p>
+<p><meta charset="utf-8"><span>▪ 100% Polyester</span><br />
+<span>▪ White&nbsp;dispersal design</span><br />
+<span>▪&nbsp;<meta charset="utf-8">Pantal&oacute;n&nbsp;logo printed at front</span><br />
+<span><meta charset="utf-8"> <meta charset="utf-8">▪ Hook closure</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catene</s:tag>
+    <s:tag>chains</s:tag>
+    <s:tag>keychains</s:tag>
+    <s:tag>keyrings</s:tag>
+    <s:tag>porta chiavi</s:tag>
+    <s:tag>portachiavi</s:tag>
+    <s:tag>portachiavi bianco</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6157962215578</id>
+      <title>O/S</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>C20778PL0997</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6158878900378</id>
+    <published>2021-02-14T15:19:23+01:00</published>
+    <updated>2021-02-14T15:19:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-turquoise-keychain"/>
+    <title>Dispersal Turquoise Keychain</title>
+    <s:type>keychain</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-turquoise-keychain-429653.jpg?v=1613315136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>keychain<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong data-mce-fragment="1">Pantal&oacute;n Brand</strong><strong data-mce-fragment="1">&nbsp;Dispersal Turquoise&nbsp;Keychain</strong></h3>
+<p>Practical and versatile, the keychain highlights the modern style thanks to the iconic dispersion pattern and logo Pantal&oacute;n printed on the front and back.</p>
+<p><span style="text-decoration: underline;"><strong>PRODUCT DETAILS</strong></span></p>
+<p><meta charset="utf-8"><span>▪ 100% Polyester</span><br />
+<span>▪ Turquoise&nbsp;dispersal design</span><br />
+<span>▪&nbsp;<meta charset="utf-8">Pantal&oacute;n&nbsp;logo printed at front</span><br />
+<span><meta charset="utf-8"> <meta charset="utf-8">▪ Hook closure</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catene</s:tag>
+    <s:tag>chains</s:tag>
+    <s:tag>keychains</s:tag>
+    <s:tag>keyrings</s:tag>
+    <s:tag>porta chiavi</s:tag>
+    <s:tag>portachiavi</s:tag>
+    <s:tag>portachiavi turchese</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6158878900378</id>
+      <title>O/S</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>C20778PL0953</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6158879228058</id>
+    <published>2021-02-14T14:27:53+01:00</published>
+    <updated>2021-02-14T14:27:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-red-keychain"/>
+    <title>Dispersal Red Keychain</title>
+    <s:type>keychain</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-red-keychain-562983.jpg?v=1613315136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>keychain<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong data-mce-fragment="1">Pantal&oacute;n Brand</strong><strong data-mce-fragment="1">&nbsp;Dispersal Red&nbsp;Keychain</strong></h3>
+<p>Practical and versatile, the keychain highlights the modern style thanks to the iconic dispersion pattern and logo Pantal&oacute;n printed on the front and back.</p>
+<p><span style="text-decoration: underline;"><strong>PRODUCT DETAILS</strong></span></p>
+<p><meta charset="utf-8"><span>▪ 100% Polyester</span><br />
+<span>▪ Red&nbsp;dispersal design</span><br />
+<span>▪&nbsp;<meta charset="utf-8">Pantal&oacute;n&nbsp;logo printed at front</span><br />
+<span><meta charset="utf-8"> <meta charset="utf-8">▪ Hook closure</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catene</s:tag>
+    <s:tag>chains</s:tag>
+    <s:tag>keychains</s:tag>
+    <s:tag>keyrings</s:tag>
+    <s:tag>porta chiavi</s:tag>
+    <s:tag>portachiavi</s:tag>
+    <s:tag>portachiavi rosso</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6158879228058</id>
+      <title>O/S</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>C20778PL0947</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6158879621274</id>
+    <published>2021-02-14T11:36:45+01:00</published>
+    <updated>2021-02-14T11:36:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-purple-keychain"/>
+    <title>Dispersal Purple Keychain</title>
+    <s:type>keychain</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-purple-keychain-758873.jpg?v=1613315136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>keychain<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong data-mce-fragment="1">Pantal&oacute;n Brand</strong><strong data-mce-fragment="1">&nbsp;Dispersal&nbsp;<!--%3Cmeta%20charset%3D%22utf-8%22%3E-->Purple Keychain</strong></h3>
+<p>Practical and versatile, the keychain highlights the modern style thanks to the iconic dispersion pattern and logo Pantal&oacute;n printed on the front and back.</p>
+<p><span style="text-decoration: underline;"><strong>PRODUCT DETAILS</strong></span></p>
+<p><meta charset="utf-8"><span>▪ 100% Polyester</span><br />
+<span>▪ Purple dispersal design</span><br />
+<span>▪&nbsp;<meta charset="utf-8">Pantal&oacute;n&nbsp;logo printed at front</span><br />
+<span><meta charset="utf-8"> <meta charset="utf-8">▪ Hook closure</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catene</s:tag>
+    <s:tag>chains</s:tag>
+    <s:tag>keychains</s:tag>
+    <s:tag>keyrings</s:tag>
+    <s:tag>porta chiavi</s:tag>
+    <s:tag>portachiavi</s:tag>
+    <s:tag>portachiavi viola</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6158879621274</id>
+      <title>O/S</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>C20778PL0917</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

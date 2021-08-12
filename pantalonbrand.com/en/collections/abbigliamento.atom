@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/en/collections/abbigliamento.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2021-02-19T11:47:10+01:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6138089865370</id>
+    <published>2021-02-19T11:47:10+01:00</published>
+    <updated>2021-02-19T11:47:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-white-crewneck"/>
+    <title>Dispersal White Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandwhitecrewneck01.jpg?v=1616692506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crewneck<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Dispersal White Crewneck</b></h3>
+<p data-mce-fragment="1">The crewneck&nbsp;is characterized by the iconic brand motif on the front and back.&nbsp;The model, oversize fit and made of high quality cotton, has an original embroidery with logo Pantal&oacute;n Brand on the chest.&nbsp;The garment, embellished with the brand&rsquo;s inspiration label, features ribbed details on the neck, cuffs and waist.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Black&nbsp;dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Ribbed details</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Color white<br />
+▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality french terry&nbsp;cotton 360 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea&nbsp;wears size M&nbsp;and his&nbsp;high is 186cm.</span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crewneck</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa bianca</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>girocollo</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:tag>white crewneck</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6138089865370</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6138089865370</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6138089865370</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6138089865370</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6135729291418</id>
+    <published>2021-02-19T11:47:09+01:00</published>
+    <updated>2021-02-19T11:47:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-turquoise-crewneck"/>
+    <title>Dispersal Turquoise Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-turquoise-crewneck-166284.jpg?v=1616705893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crewneck<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Dispersal <!--%3Cmeta%20charset%3D%22utf-8%22%3E-->Turquoise Crewneck</b></h3>
+<p data-mce-fragment="1">The crewneck&nbsp;is characterized by the iconic brand motif on the front and back.&nbsp;The model, oversize fit and made of high quality cotton, has an original embroidery with logo Pantal&oacute;n Brand on the chest.&nbsp;The garment, embellished with the brand&rsquo;s inspiration label, features ribbed details on the neck, cuffs and waist.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Turquoise&nbsp;dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Ribbed details</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Color black<br />
+▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality french terry&nbsp;cotton 360 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea&nbsp;wears size M&nbsp;and his&nbsp;high is 186cm.</span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crewneck</s:tag>
+    <s:tag>crewneck turquoise</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa turchese</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>girocollo</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135729291418</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135729291418</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135729291418</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135729291418</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6135642063002</id>
+    <published>2021-02-19T11:47:09+01:00</published>
+    <updated>2021-02-19T11:47:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-purple-crewneck"/>
+    <title>Dispersal Purple Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandpurplecrewneck01.jpg?v=1617180094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crewneck<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand&nbsp;Dispersal <!--%3Cmeta%20charset%3D%22utf-8%22%3E-->Purple Crewneck</b></h3>
+<p data-mce-fragment="1">The crewneck&nbsp;is characterized by the iconic brand motif on the front and back.&nbsp;The model, oversize fit and made of high quality cotton, has an original embroidery with logo Pantal&oacute;n Brand on the chest.&nbsp;The garment, embellished with the brand&rsquo;s inspiration label, features ribbed details on the neck, cuffs and waist.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Purple&nbsp;dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Ribbed details</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Color black<br />
+▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality french terry&nbsp;cotton 360 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea&nbsp;wears size M&nbsp;and his&nbsp;high is 186cm.</span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crewneck</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa viola</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>girocollo</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>purple crewneck</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135642063002</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135642063002</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135642063002</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6135642063002</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6126453424282</id>
+    <published>2021-02-19T11:47:08+01:00</published>
+    <updated>2021-02-19T11:47:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-beige-hoodie"/>
+    <title>Dispersal Beige Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-beige-hoodie-757260.jpg?v=1616629183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Dispersal Beige Hoodie</b></h3>
+<p data-mce-fragment="1">The hoodie&nbsp;is embellished by the dispersion design on the hood, key of&nbsp;the season and iconic brand motif.&nbsp;The garment is made of high quality pure fleece cotton, with oversized fit and shoulders down and is completed by a large central pocket on the front, ribbed details and multi-purpose carabiner on the side.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Turquoise&nbsp;dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Ribbed details</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Multi-purpose&nbsp;carabiner included (keychain excluded)</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Color beige<br />
+▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality fleece cotton 360 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea&nbsp;wears size M&nbsp;and his&nbsp;high is 186cm.</span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa beige</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>felpe con cappuccio</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126453424282</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126453424282</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126453424282</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126453424282</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6126438318234</id>
+    <published>2021-02-19T11:47:08+01:00</published>
+    <updated>2021-02-19T11:47:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-white-hoodie"/>
+    <title>Dispersal White Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandwhitehoodie01.jpg?v=1616681307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Dispersal&nbsp;<!--%3Cmeta%20charset%3D%22utf-8%22%3E-->White Hoodie</b></h3>
+<p data-mce-fragment="1">The hoodie is embellished by the dispersion design&nbsp;on the hood, key of&nbsp;the season and iconic brand motif.&nbsp;The garment is made of high quality pure fleece cotton, with oversized fit and shoulders down and is completed by a large central pocket on the front, ribbed details and multi-purpose carabiner on the side.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ White&nbsp;dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Ribbed details</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Multi-purpose&nbsp;carabiner included (keychain excluded)</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Color Black<br />
+▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality fleece cotton 360 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea&nbsp;wears size M&nbsp;and his&nbsp;high is 186cm.</span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa nera</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>felpe con cappuccio</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:tag>white hoodie</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126438318234</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126438318234</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126438318234</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126438318234</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/6126436090010</id>
+    <published>2021-02-19T11:47:07+01:00</published>
+    <updated>2021-02-19T11:47:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/dispersal-red-hoodie"/>
+    <title>Dispersal Red Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-red-hoodie-325428.jpg?v=1616629182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Dispersal&nbsp;<!--%3Cmeta%20charset%3D%22utf-8%22%3E-->Red Hoodie</b></h3>
+<p data-mce-fragment="1">The hoodie is embellished by the dispersion design&nbsp;on the hood, key of&nbsp;the season and iconic brand motif.&nbsp;The garment is made of high quality pure fleece cotton, with oversized fit and shoulders down and is completed by a large central pocket on the front, ribbed details and multi-purpose carabiner on the side.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Red&nbsp;dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Ribbed details</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Multi-purpose&nbsp;carabiner included (keychain excluded)</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Color Black<br />
+▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality fleece cotton 360 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea&nbsp;wears size M&nbsp;and his&nbsp;high is 186cm.</span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa rossa</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>felpe con cappuccio</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie rossa</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>red hoodie</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126436090010</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126436090010</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126436090010</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/6126436090010</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5809918083226</id>
+    <published>2020-10-07T16:37:02+02:00</published>
+    <updated>2020-10-07T16:37:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/white-dispersal-beige-crop-tee"/>
+    <title>White Dispersal Beige Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/white-dispersal-beige-crop-tee-582553.jpg?v=1616110065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crop Tee<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand White Dispersal Beige Crop Tee</b></h3>
+<p data-mce-fragment="1">Crop-Tee&nbsp;is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ White dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Short sleeves crop-tee</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Beige crop tee</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Maria wears size S and her high is 163cm.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong>SIZE CHART</strong></a></span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5809918083226</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5809918083226</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5809918083226</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714547835034</id>
+    <published>2020-09-09T13:28:38+02:00</published>
+    <updated>2020-09-09T13:28:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/light-blue-dispersal-white-crop-tee"/>
+    <title>Light Blue Dispersal White Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/light-blue-dispersal-white-crop-tee-857178.jpg?v=1616066813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crop Tee<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Light Blue Dispersal White Crop Tee</b></h3>
+<p>Crop-tee is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ Light-blue dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves crop-tee</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ White crop-tee</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Maria wears size S and her high is 163cm.</span></p>
+<p><span data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong>SIZE CHART</strong></a></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714547835034</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714547835034</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714547835034</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714535088282</id>
+    <published>2020-09-09T13:17:41+02:00</published>
+    <updated>2020-09-09T13:17:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/pink-dispersal-black-crop-tee"/>
+    <title>Pink Dispersal Black Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pink-dispersal-black-crop-tee-193240.jpg?v=1616066812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crop Tee<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Pink Dispersal Black Crop Tee</b></h3>
+<p>Crop-Tee&nbsp;is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪&nbsp;Pink dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves crop-tee</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black crop tee</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Maria wears size S and her high is 163cm.</span></p>
+<p><span data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong>SIZE CHART</strong></a></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714535088282</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714535088282</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714535088282</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714503073946</id>
+    <published>2020-09-09T12:53:56+02:00</published>
+    <updated>2020-09-09T12:53:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/purple-dispersal-black-t-shirt"/>
+    <title>Purple Dispersal Black T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandpurpletee02.jpg?v=1617444059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Purple Dispersal Black T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪&nbsp;Purple dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol&nbsp;embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Andrea wears size M and his high is 173cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪ <meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪ <span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714485837978</id>
+    <published>2020-09-09T12:44:15+02:00</published>
+    <updated>2020-09-09T12:44:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/red-dispersal-black-t-shirt"/>
+    <title>Red Dispersal Black T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/red-dispersal-black-t-shirt-335498.jpg?v=1615850528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Red Dispersal Black T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ Red dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol&nbsp;embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Luigi wears size L and his high is 182cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714483151002</id>
+    <published>2020-09-09T12:42:20+02:00</published>
+    <updated>2020-09-09T12:42:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/turquoise-dispersal-beige-t-shirt"/>
+    <title>Turquoise Dispersal Beige T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandbeigetee05.jpg?v=1617443188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Turquoise Dispersal Beige T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ Turquoise dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Beige t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Luigi wears size L and his high is 182cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>ultimi arrivi</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714479284378</id>
+    <published>2020-09-09T12:40:03+02:00</published>
+    <updated>2020-09-09T12:40:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/grey-dispersal-white-t-shirt"/>
+    <title>Grey Dispersal White T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandgreytee01.jpg?v=1617443678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Grey Dispersal White T-shirt</b></h3>
+<p data-mce-fragment="1">T-shirt is made of high quality soft cotton and embellished by the dispersion design on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Grey dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol&nbsp;embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ White t-shirt<br data-mce-fragment="1" />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea wears size M and his high is 173cm.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714471223450</id>
+    <published>2020-09-09T12:34:58+02:00</published>
+    <updated>2020-09-09T12:34:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/white-dispersal-black-t-shirt"/>
+    <title>White Dispersal Black T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/white-dispersal-black-t-shirt-263295.jpg?v=1616066812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand White Dispersal Black T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ White dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Luigi wears size L and his high is 182cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>ultimi arrivi</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+</feed>

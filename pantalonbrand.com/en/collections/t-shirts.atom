@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/en/collections/t-shirts.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2020-09-09T12:53:56+02:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714503073946</id>
+    <published>2020-09-09T12:53:56+02:00</published>
+    <updated>2020-09-09T12:53:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/purple-dispersal-black-t-shirt"/>
+    <title>Purple Dispersal Black T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandpurpletee02.jpg?v=1617444059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Purple Dispersal Black T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪&nbsp;Purple dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol&nbsp;embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Andrea wears size M and his high is 173cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪ <meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪ <span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714503073946</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0917</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714485837978</id>
+    <published>2020-09-09T12:44:15+02:00</published>
+    <updated>2020-09-09T12:44:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/red-dispersal-black-t-shirt"/>
+    <title>Red Dispersal Black T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/red-dispersal-black-t-shirt-335498.jpg?v=1615850528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Red Dispersal Black T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ Red dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol&nbsp;embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Luigi wears size L and his high is 182cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714485837978</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0947</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714483151002</id>
+    <published>2020-09-09T12:42:20+02:00</published>
+    <updated>2020-09-09T12:42:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/turquoise-dispersal-beige-t-shirt"/>
+    <title>Turquoise Dispersal Beige T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandbeigetee05.jpg?v=1617443188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Turquoise Dispersal Beige T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ Turquoise dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Beige t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Luigi wears size L and his high is 182cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>ultimi arrivi</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714483151002</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0553</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714479284378</id>
+    <published>2020-09-09T12:40:03+02:00</published>
+    <updated>2020-09-09T12:40:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/grey-dispersal-white-t-shirt"/>
+    <title>Grey Dispersal White T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandgreytee01.jpg?v=1617443678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Grey Dispersal White T-shirt</b></h3>
+<p data-mce-fragment="1">T-shirt is made of high quality soft cotton and embellished by the dispersion design on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ Grey dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol&nbsp;embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ White t-shirt<br data-mce-fragment="1" />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Andrea wears size M and his high is 173cm.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714479284378</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0190</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714471223450</id>
+    <published>2020-09-09T12:34:58+02:00</published>
+    <updated>2020-09-09T12:34:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/white-dispersal-black-t-shirt"/>
+    <title>White Dispersal Black T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/white-dispersal-black-t-shirt-263295.jpg?v=1616066812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand White Dispersal Black T-shirt</b></h3>
+<p>T-shirt is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ White dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Luigi wears size L and his high is 182cm.</span></p>
+<p><span data-mce-fragment="1"><strong><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/OVERSIZE_TSHIRT_GUIDE.png?v=1614367158">SIZE CHART</a></strong></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>ultimi arrivi</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714471223450</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20102CO0997</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/4494467170356</id>
+    <published>2020-04-09T12:19:54+02:00</published>
+    <updated>2020-04-09T12:19:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/black-prank-t-shirt"/>
+    <title>Black Prank T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/black-prank-t-shirt-657879.jpg?v=1618495020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Black&nbsp;Prank&nbsp;T-shirt</b></h3>
+<p>The t-shirt is made of high quality cotton and embellished with the &quot;IT&rsquo;S A PRANK&quot; print on the chest, motif of the brand&rsquo;s first launch collection.&nbsp;The model, created in medium-heavy jersey, is completed by the representative symbol of the Brand embroidered on the back and the orange label with logo embroidered at the bottom.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p><span>▪ Print</span>&nbsp;&quot;IT&#39;S A PRANK&quot;<span data-mce-fragment="1">&nbsp;at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Label embroidered with brand logo</span><br />
+<span data-mce-fragment="1">▪ Black&nbsp;t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">240 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model&nbsp;wears size M&nbsp;and his high is 173cm.</span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>ss20</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/4494467170356</id>
+      <title>S</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>A20101CO0999</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/4494467170356</id>
+      <title>M</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>A20101CO0999</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/4494467170356</id>
+      <title>L</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>A20101CO0999</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/4492544278580</id>
+    <published>2020-03-31T16:49:31+02:00</published>
+    <updated>2020-03-31T16:49:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/white-prank-t-shirt"/>
+    <title>White Prank T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/white-prank-t-shirt-419081.jpg?v=1618495025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand White Prank&nbsp;T-shirt</b></h3>
+<p>The t-shirt is made of high quality cotton and embellished with the &quot;IT&rsquo;S A PRANK&quot; print on the chest, motif of the brand&rsquo;s first launch collection.&nbsp;The model, created in medium-heavy jersey, is completed by the representative symbol of the Brand embroidered on the back and the orange label with logo embroidered at the bottom.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p><span>▪ Print</span>&nbsp;&quot;IT&#39;S A PRANK&quot;<span data-mce-fragment="1">&nbsp;at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves t-shirt</span><br />
+<span data-mce-fragment="1">▪ Label embroidered with brand logo</span><br />
+<span data-mce-fragment="1">▪ White&nbsp;t-shirt<br />
+<meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">240 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model&nbsp;wears size M&nbsp;and his high is 173cm.</span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>maglie</s:tag>
+    <s:tag>magliette</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>ss20</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/4492544278580</id>
+      <title>S</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>A20101CO0001</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/4492544278580</id>
+      <title>M</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>A20101CO0001</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/4492544278580</id>
+      <title>L</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>A20101CO0001</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+</feed>

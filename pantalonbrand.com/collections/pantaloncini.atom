@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/collections/pantaloncini.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2021-06-28T09:57:28+02:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/products/6838519726234</id>
+    <published>2021-06-28T09:57:28+02:00</published>
+    <updated>2021-06-28T09:57:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-white-shorts"/>
+    <title>Dispersal White Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-white-shorts-808611.jpg?v=1624881592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal White Shorts</b></h3>
+<div class="lv-product-description">
+<p>I nuovi PANTALÓNcini <meta charset="utf-8"><span data-mce-fragment="1">reinterpretano l’emblematico</span><span data-mce-fragment="1"> motivo del brand sul fronte e sul retro</span>. Il modello realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand e due tasche laterali. Caratterizzati da uno stile casual e dalla vita media, sono ideali da abbinare alle nostre t-shirt.</span></p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione nera<br><meta charset="utf-8"><span data-mce-fragment="1">▪ Tasche laterali<br><meta charset="utf-8">▪ Lunghezza al ginocchio</span><br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato </span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore bianco<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone French Terry di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello indossa la taglia M ed è alto 172cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDA_ALLE_TAGLIE_SHORTS.jpg?v=1624864439"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pantaloncini</s:tag>
+    <s:tag>Pantaloni</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838519726234</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838519726234</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838519726234</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838519726234</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6838481715354</id>
+    <published>2021-06-28T09:57:11+02:00</published>
+    <updated>2021-06-28T09:57:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-red-shorts"/>
+    <title>Dispersal Red Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-red-shorts-387376.jpg?v=1624881592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal Red Shorts</b></h3>
+<div class="lv-product-description">
+<p>I nuovi PANTALÓNcini <meta charset="utf-8"><span data-mce-fragment="1">reinterpretano l’emblematico</span><span data-mce-fragment="1"> motivo del brand sul fronte e sul retro</span>. Il modello realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand e due tasche laterali. Caratterizzati da uno stile casual e dalla vita media, sono ideali da abbinare alle nostre t-shirt.</span></p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione rossa<br><meta charset="utf-8"><span data-mce-fragment="1">▪ Tasche laterali<br><meta charset="utf-8">▪ Lunghezza al ginocchio</span><br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato </span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone French Terry di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello indossa la taglia M ed è alto 172cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDA_ALLE_TAGLIE_SHORTS.jpg?v=1624864439"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pantaloncini</s:tag>
+    <s:tag>Pantaloni</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838481715354</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838481715354</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838481715354</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838481715354</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6838515761306</id>
+    <published>2021-06-28T09:57:02+02:00</published>
+    <updated>2021-06-28T09:57:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-black-shorts"/>
+    <title>Dispersal Black Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-black-shorts-861722.jpg?v=1624881591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal Black Shorts</b></h3>
+<div class="lv-product-description">
+<p>I nuovi PANTALÓNcini <meta charset="utf-8"><span data-mce-fragment="1">reinterpretano l’emblematico</span><span data-mce-fragment="1"> motivo del brand sul fronte e sul retro</span>. Il modello realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand e due tasche laterali. Caratterizzati da uno stile casual e dalla vita media, sono ideali da abbinare alle nostre t-shirt.</span></p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione bianca<br><meta charset="utf-8"><span data-mce-fragment="1">▪ Tasche laterali<br><meta charset="utf-8">▪ Lunghezza al ginocchio</span><br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato </span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone French Terry di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello indossa la taglia M ed è alto 171cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDA_ALLE_TAGLIE_SHORTS.jpg?v=1624864439"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pantaloncini</s:tag>
+    <s:tag>Pantaloni</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838515761306</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838515761306</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838515761306</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838515761306</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6838463889562</id>
+    <published>2021-06-28T09:56:51+02:00</published>
+    <updated>2021-06-28T09:56:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-purple-shorts"/>
+    <title>Dispersal Purple Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-purple-shorts-518340.jpg?v=1624881592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal Purple Shorts</b></h3>
+<div class="lv-product-description">
+<p>I nuovi PANTALÓNcini <meta charset="utf-8"><span data-mce-fragment="1">reinterpretano l’emblematico</span><span data-mce-fragment="1"> motivo del brand sul fronte e sul retro</span>. Il modello realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand e due tasche laterali. Caratterizzati da uno stile casual e dalla vita media, sono ideali da abbinare alle nostre t-shirt.</span></p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione viola<br><meta charset="utf-8"><span data-mce-fragment="1">▪ Tasche laterali<br><meta charset="utf-8">▪ Lunghezza al ginocchio</span><br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato </span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone French Terry di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello indossa la taglia M ed è alto 172cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDA_ALLE_TAGLIE_SHORTS.jpg?v=1624864439"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pantaloncini</s:tag>
+    <s:tag>Pantaloni</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838463889562</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838463889562</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838463889562</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838463889562</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6838490267802</id>
+    <published>2021-06-28T09:56:41+02:00</published>
+    <updated>2021-06-28T09:56:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-beige-shorts"/>
+    <title>Dispersal Beige Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-beige-shorts-853628.jpg?v=1624881593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal Beige Shorts</b></h3>
+<div class="lv-product-description">
+<p>I nuovi PANTALÓNcini <meta charset="utf-8"><span data-mce-fragment="1">reinterpretano l’emblematico</span><span data-mce-fragment="1"> motivo del brand sul fronte e sul retro</span>. Il modello realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand e due tasche laterali. Caratterizzati da uno stile casual e dalla vita media, sono ideali da abbinare alle nostre t-shirt.</span></p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione celeste<br><meta charset="utf-8"><span data-mce-fragment="1">▪ Tasche laterali<br><meta charset="utf-8">▪ Lunghezza al ginocchio</span><br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato </span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore beige<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone French Terry di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello indossa la taglia M ed è alto 171cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDA_ALLE_TAGLIE_SHORTS.jpg?v=1624864439"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pantaloncini</s:tag>
+    <s:tag>Pantaloni</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838490267802</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838490267802</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838490267802</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6838490267802</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/en/collections/crop-tees.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2020-10-07T16:37:02+02:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5809918083226</id>
+    <published>2020-10-07T16:37:02+02:00</published>
+    <updated>2020-10-07T16:37:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/white-dispersal-beige-crop-tee"/>
+    <title>White Dispersal Beige Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/white-dispersal-beige-crop-tee-582553.jpg?v=1616110065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crop Tee<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand White Dispersal Beige Crop Tee</b></h3>
+<p data-mce-fragment="1">Crop-Tee&nbsp;is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4 data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong data-mce-fragment="1">PRODUCT DETAILS:</strong></span></h4>
+<p data-mce-fragment="1">▪ White dispersal design<br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Short sleeves crop-tee</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br data-mce-fragment="1" />
+<span data-mce-fragment="1">▪ Beige crop tee</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br data-mce-fragment="1" />
+<span data-mce-fragment="1"><strong data-mce-fragment="1">Fit</strong>: Oversize<br data-mce-fragment="1" />
+<meta charset="utf-8"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model Maria wears size S and her high is 163cm.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong>SIZE CHART</strong></a></span></p>
+<h4 data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1">WASHING CARE</strong></span></h4>
+<p data-mce-fragment="1">▪&nbsp;Wash inside out<br data-mce-fragment="1" />
+▪&nbsp;Maximum wash 30<span data-mce-fragment="1">&deg; C</span><br data-mce-fragment="1" />
+▪ Do not bleach<br data-mce-fragment="1" />
+▪ Do not tumble dry<br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br data-mce-fragment="1" />
+▪<span data-mce-fragment="1">&nbsp;</span><span data-mce-fragment="1">Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5809918083226</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5809918083226</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5809918083226</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0501</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714547835034</id>
+    <published>2020-09-09T13:28:38+02:00</published>
+    <updated>2020-09-09T13:28:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/light-blue-dispersal-white-crop-tee"/>
+    <title>Light Blue Dispersal White Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/light-blue-dispersal-white-crop-tee-857178.jpg?v=1616066813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crop Tee<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Light Blue Dispersal White Crop Tee</b></h3>
+<p>Crop-tee is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪ Light-blue dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves crop-tee</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ White crop-tee</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Maria wears size S and her high is 163cm.</span></p>
+<p><span data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong>SIZE CHART</strong></a></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>bestof</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714547835034</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714547835034</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714547835034</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0940</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/en/products/5714535088282</id>
+    <published>2020-09-09T13:17:41+02:00</published>
+    <updated>2020-09-09T13:17:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/en/products/pink-dispersal-black-crop-tee"/>
+    <title>Pink Dispersal Black Crop Tee</title>
+    <s:type>Crop Tee</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pink-dispersal-black-crop-tee-193240.jpg?v=1616066812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantalón Brand<br>
+        <strong>Type: </strong>Crop Tee<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantal&oacute;n Brand Pink Dispersal Black Crop Tee</b></h3>
+<p>Crop-Tee&nbsp;is made of high quality soft cotton and embellished by the dispersion design&nbsp;on the sleeves, the brand&rsquo;s iconic motif.&nbsp;The model, created in medium-heavy jersey, is completed by the symbol representing the Brand embroidered at back.</p>
+<h4><span data-mce-style="text-decoration: underline;" style="text-decoration: underline;"><strong>PRODUCT DETAILS:</strong></span></h4>
+<p>▪&nbsp;Pink dispersal design<br />
+<span>▪&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Pantal&oacute;n logo embroidered at chest&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Brand&#39;s symbol embroidered at back&nbsp;</span><br />
+<span data-mce-fragment="1">▪ Short sleeves crop-tee</span><br />
+<span data-mce-fragment="1">▪ Rib crewneck collar</span><br />
+<span data-mce-fragment="1">▪ Black crop tee</span></p>
+<p><strong>Material</strong>: 100% High quality cotton&nbsp;<meta charset="utf-8">230 g/m&sup2;<br />
+<span data-mce-fragment="1"><strong>Fit</strong>: Oversize<br />
+<meta charset="utf-8"></span></p>
+<p><span data-mce-fragment="1">Model Maria wears size S and her high is 163cm.</span></p>
+<p><span data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/GUIDE_WOMAN.png?v=1614367202"><strong>SIZE CHART</strong></a></span></p>
+<h4><span style="text-decoration: underline;"><strong>WASHING CARE</strong></span></h4>
+<p>▪&nbsp;Wash inside out<br />
+▪&nbsp;Maximum wash 30<span>&deg; C</span><br />
+▪ Do not bleach<br />
+▪ Do not tumble dry<br />
+▪<span>&nbsp;</span><meta charset="utf-8"><span data-mce-fragment="1">Do not iron on the print</span><br />
+▪<span>&nbsp;</span><span>Do not dry clean</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+-->
+</style>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>croptee</s:tag>
+    <s:tag>croptop</s:tag>
+    <s:tag>croptshirt</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714535088282</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714535088282</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/en/products/5714535088282</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>C20202CO0134</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+</feed>

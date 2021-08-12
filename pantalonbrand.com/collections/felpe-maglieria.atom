@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/collections/felpe-maglieria.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2021-02-19T11:47:10+01:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/products/6138089865370</id>
+    <published>2021-02-19T11:47:10+01:00</published>
+    <updated>2021-02-19T11:47:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-white-crewneck"/>
+    <title>Dispersal White Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandwhitecrewneck01.jpg?v=1616692506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Crewneck<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal White Crewneck</b></h3>
+<div class="lv-product-description">
+<p>La felpa girocollo <meta charset="utf-8"><span data-mce-fragment="1">è caratterizzata dall'iconico motivo del brand sul fronte e sul retro</span>. Il modello, dalla vestibilità oversize, realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand sul petto. </span>Il capo, impreziosito dall'etichetta ispirazione del brand, presenta dettagli a coste sul collo, sui polsini e in vita.</p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione nera <br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro<br></span><span data-mce-fragment="1">▪ Dettagli a coste</span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore bianco<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone garzato di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello Andrea indossa la taglia M ed è alto 186cm.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801" data-mce-href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801"><strong></strong></a></span><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crewneck</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa bianca</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>girocollo</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:tag>white crewneck</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6138089865370</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6138089865370</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6138089865370</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6138089865370</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO7990</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6135729291418</id>
+    <published>2021-02-19T11:47:09+01:00</published>
+    <updated>2021-02-19T11:47:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-turquoise-crewneck"/>
+    <title>Dispersal Turquoise Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-turquoise-crewneck-166284.jpg?v=1616705893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Crewneck<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal <meta charset="utf-8">Turquoise Crewneck</b></h3>
+<div class="lv-product-description">
+<p>La felpa girocollo <meta charset="utf-8"><span data-mce-fragment="1">è caratterizzata dall'iconico motivo del brand sul fronte e sul retro</span>. Il modello, dalla vestibilità oversize, realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand sul petto. </span>Il capo, impreziosito dall'etichetta ispirazione del brand, presenta dettagli a coste sul collo, sui polsini e in vita.</p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione turchese <br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro<br></span><span data-mce-fragment="1">▪ Dettagli a coste</span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone garzato di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello Andrea indossa la taglia M ed è alto 186cm.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801" data-mce-href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801"><strong></strong></a></span><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crewneck</s:tag>
+    <s:tag>crewneck turquoise</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa turchese</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>girocollo</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135729291418</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135729291418</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135729291418</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135729291418</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0553</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6135642063002</id>
+    <published>2021-02-19T11:47:09+01:00</published>
+    <updated>2021-02-19T11:47:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-purple-crewneck"/>
+    <title>Dispersal Purple Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandpurplecrewneck01.jpg?v=1617180094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Crewneck<br>
+        <strong>Prezzo: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal <meta charset="utf-8">Purple Crewneck</b></h3>
+<div class="lv-product-description">
+<p>La felpa girocollo <meta charset="utf-8"><span data-mce-fragment="1">è caratterizzata dall'iconico motivo del brand sul fronte e sul retro</span>. Il modello, dalla vestibilità oversize e realizzato in cotone di alta qualità, presenta un originale ricamo con logo <meta charset="utf-8"><span data-mce-fragment="1">Pantalón Brand sul petto. </span>Il capo, impreziosito dall'etichetta ispirazione del brand, presenta dettagli a coste sul collo, sui polsini e in vita.</p>
+</div>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione viola <br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro<br></span><span data-mce-fragment="1">▪ Dettagli a coste</span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone garzato di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello Andrea indossa la taglia M ed è alto 186cm.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801"><strong></strong></a><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crewneck</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa viola</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>girocollo</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>purple crewneck</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135642063002</id>
+      <title>S</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135642063002</id>
+      <title>M</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135642063002</id>
+      <title>L</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6135642063002</id>
+      <title>XL</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku>D21761CO0917</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6126453424282</id>
+    <published>2021-02-19T11:47:08+01:00</published>
+    <updated>2021-02-19T11:47:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-beige-hoodie"/>
+    <title>Dispersal Beige Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-beige-hoodie-757260.jpg?v=1616629183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Hoodie<br>
+        <strong>Prezzo: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal Beige Hoodie</b></h3>
+<p><span data-mce-fragment="1">La felpa è impreziosita dalla fantasia a dispersione sul cappuccio, chiave della stagione e motivo iconico del brand. Il capo è realizzato in puro cotone felpato di alta qualità, <meta charset="utf-8">con vestibilità oversize e spalle scese ed è completato da un'ampia tasca centrale sul davanti, <meta charset="utf-8">dettagli a coste e moschettone multiuso sul lato.</span></p>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione turchese <br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro<br></span><span data-mce-fragment="1">▪ Dettagli a coste<br><meta charset="utf-8">▪ Moschettone multiuso incluso (escluso portachiavi)</span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore beige<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone felpato di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">Il modello Andrea indossa la taglia M ed è alto 186cm.</span></p>
+<h4><u><span><strong>CURA DEL PRODOTTO</strong></span></u></h4>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa beige</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>felpe con cappuccio</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126453424282</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126453424282</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126453424282</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126453424282</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0553</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6126438318234</id>
+    <published>2021-02-19T11:47:08+01:00</published>
+    <updated>2021-02-19T11:47:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-white-hoodie"/>
+    <title>Dispersal White Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalonbrandwhitehoodie01.jpg?v=1616681307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Hoodie<br>
+        <strong>Prezzo: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal <meta charset="utf-8">White Hoodie</b></h3>
+<p><span data-mce-fragment="1">La felpa è impreziosita dalla fantasia a dispersione sul cappuccio, chiave della stagione e motivo iconico del brand. Il capo è realizzato in puro cotone felpato di alta qualità, <meta charset="utf-8">con vestibilità oversize e spalle scese ed è completato da un'ampia tasca centrale sul davanti, <meta charset="utf-8">dettagli a coste e moschettone multiuso sul lato.</span></p>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione bianca <br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro<br></span><span data-mce-fragment="1">▪ Dettagli a coste<br><meta charset="utf-8">▪ Moschettone multiuso incluso (escluso portachiavi)</span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone felpato di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello Andrea indossa la taglia M ed è alto 186cm.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801" data-mce-href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801"><strong></strong></a></span><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa nera</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>felpe con cappuccio</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:tag>white hoodie</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126438318234</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126438318234</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126438318234</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126438318234</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0997</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pantalonbrand.com/products/6126436090010</id>
+    <published>2021-02-19T11:47:07+01:00</published>
+    <updated>2021-02-19T11:47:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/dispersal-red-hoodie"/>
+    <title>Dispersal Red Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/dispersal-red-hoodie-325428.jpg?v=1616629182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Hoodie<br>
+        <strong>Prezzo: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><b>Pantalón Brand Dispersal <meta charset="utf-8">Red Hoodie</b></h3>
+<p><span data-mce-fragment="1">La felpa è impreziosita dalla fantasia a dispersione sul cappuccio, chiave della stagione e motivo iconico del brand. Il capo è realizzato in puro cotone felpato di alta qualità, <meta charset="utf-8">con vestibilità oversize e spalle scese ed è completato da un'ampia tasca centrale sul davanti, <meta charset="utf-8">dettagli a coste e moschettone multiuso sul lato.</span></p>
+<h4><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DETTAGLI DEL PRODOTTO:</strong></span></h4>
+<p>▪ Fantasia a dispersione rossa <br> <span>▪ </span><meta charset="utf-8"><span data-mce-fragment="1">Logo Pantalón ricamato sul petto </span><br> <span data-mce-fragment="1">▪ Emblema del brand ricamato sul retro<br></span><span data-mce-fragment="1">▪ Dettagli a coste<br><meta charset="utf-8">▪ Moschettone multiuso incluso (escluso portachiavi)</span><span data-mce-fragment="1"><br></span><span data-mce-fragment="1">▪ Colore nero<br> <meta charset="utf-8">▪ Unisex</span></p>
+<p><strong>Materiale</strong>: 100% Cotone felpato di alta qualità 360 g/m²<br> <span data-mce-fragment="1"><strong>Vestibilità</strong>: Oversize</span></p>
+<p><span data-mce-fragment="1">Il modello Andrea indossa la taglia M ed è alto 186cm.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <a href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801" data-mce-href="https://cdn.shopify.com/s/files/1/0275/8780/5236/files/PANTALON_BRAND_SIZE_GUIDE_02.jpg?v=1613311801"><strong></strong></a></span><u><span><strong>CURA DEL PRODOTTO</strong></span></u></p>
+<p>▪ Lavare al rovescio<br> ▪ Lavare a max 30<span>° C</span><br> ▪ Non candeggiare<br> ▪ Non asciugare in asciugatrice<br> ▪<span> </span><meta charset="utf-8"><span data-mce-fragment="1">Non stirare sulla stampa</span><br> ▪<span> </span><span>Non lavare a secco</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abbigliamento</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>felpa rossa</s:tag>
+    <s:tag>felpe</s:tag>
+    <s:tag>felpe con cappuccio</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie rossa</s:tag>
+    <s:tag>maglieria</s:tag>
+    <s:tag>newdrop</s:tag>
+    <s:tag>red hoodie</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126436090010</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126436090010</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126436090010</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6126436090010</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>D21201CO0947</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+</feed>

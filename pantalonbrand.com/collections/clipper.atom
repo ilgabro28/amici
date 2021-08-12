@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pantalonbrand.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pantalonbrand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pantalonbrand.com/collections/clipper.atom"/>
+  <title>Pantalón Brand</title>
+  <updated>2021-02-19T11:47:10+01:00</updated>
+  <author>
+    <name>Pantalón Brand</name>
+  </author>
+  <entry>
+    <id>https://pantalonbrand.com/products/6162243682458</id>
+    <published>2021-02-19T11:47:10+01:00</published>
+    <updated>2021-02-19T11:47:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://pantalonbrand.com/products/clipper-set"/>
+    <title>Pantalón Brand X Clipper Set</title>
+    <s:type>Clipper</s:type>
+    <s:vendor>Pantalón Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/8780/5236/products/pantalon-brand-x-clipper-set-893378.jpg?v=1621697295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>Pantalón Brand<br>
+        <strong>Tipo: </strong>Clipper<br>
+        <strong>Prezzo: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Pantalón Brand Clipper Set</strong></h3>
+<p>Set da 8 inediti accendini in collaborazione con Clipper Italia. Un'edizione limitata dedicata a tutti i collezionisti, disponibile fino ad esaurimento scorte.</p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accendini</s:tag>
+    <s:tag>accessori</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>clipper</s:tag>
+    <s:tag>dispersal</s:tag>
+    <s:tag>dispersalcollection</s:tag>
+    <s:tag>set</s:tag>
+    <s:variant>
+      <id>https://pantalonbrand.com/products/6162243682458</id>
+      <title>O/S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
